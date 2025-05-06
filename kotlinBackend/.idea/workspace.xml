@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ec0d2dd-fe04-4a24-8b25-41be04f75a2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde4/CharGenerator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde4/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde4/Pessoa.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde4/Result.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde5/CalculateAvarage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde5/EvenLIst.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tecnologiasMoveis/tdes/src/main/kotlin/tde5/RepeatingNumbers.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2wT8C8YfRZD0BPUIzXbVDgQpt6U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/caethas/programs/kotlinFrontBack/kotlinBackend/demo"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec0d2dd-fe04-4a24-8b25-41be04f75a2a" name="Changes" comment="" />
+      <created>1746054073656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746054073656</updated>
+    </task>
+    <servers />
+  </component>
+</project>
